@@ -1,0 +1,8 @@
+# Basic site information.
+server: true
+domain: "realtimeplatform.org"
+permalink: /:title
+
+# Enable fancy pancy github flavored processing.
+pygments: true
+markdown: redcarpet
